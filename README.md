@@ -5,8 +5,8 @@ This repository contains code related to the testing of performance impacts in u
 
 ## Usage
 
-make
-./3np1 --threads 100 500000
+    make
+    ./3np1 --threads 100 500000
 
 ## License
 
